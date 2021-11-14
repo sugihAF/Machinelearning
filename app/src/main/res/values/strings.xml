@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BahasaIsyarat</string>
+
+    <string name="str_button_add">Add</string>
+    <string name="str_button_clear">Clear</string>
+    <string name="str_button_back">Back</string>
+
+    <string name="txtvw_word"> </string>
+</resources>
